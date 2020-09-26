@@ -2,10 +2,19 @@ body {
     margin-left: 10vw;
     margin-right: 10vw;
     background-color: rgba(125,125,125, 0.4);
+    font-size: 1.5rem;
 }
 
+.sectionHeader {
+    font-size: 2rem;
+    font-weight: 600;
+}
 
 #myFoto {
     width: 10vw;
     height: auto;
+}
+
+#mainHeader {
+    font-size: 1.5rem;
 }
