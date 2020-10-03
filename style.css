@@ -5,6 +5,14 @@ body {
     font-size: 1.5rem;
 }
 
+body > header {
+    background-color: rgba(150,150,150, 0.7)
+}
+
+h1 {
+    display: inline-block;
+}
+
 .sectionHeader {
     font-size: 2rem;
     font-weight: 600;
@@ -13,8 +21,16 @@ body {
 #myFoto {
     width: 10vw;
     height: auto;
+    display: inline-block;
 }
 
 #mainHeader {
     font-size: 1.5rem;
+}
+
+#motivation {
+    font-weight: 600;
+}
+#toright {
+    margin-left: 6vw;
 }
